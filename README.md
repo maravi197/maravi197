@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Mathematics and Computing (MnC) student at IIT ISM Dhanbad, where I combine my passion for algorithmic problem-solving with full-stack development competitive programming as well. I am eager to collaborate on open-source projects that challenge my backend skills.
+I am a Mathematics and Computing (MnC) student at IIT ISM Dhanbad, where I combine my passion for algorithmic problem-solving with full-stack development competitive programming as well.
 
 
 ## 🌐 Socials:
